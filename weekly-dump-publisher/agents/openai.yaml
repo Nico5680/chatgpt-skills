@@ -1,0 +1,6 @@
+interface:
+  display_name: "Wochen-Dump"
+  short_description: "Sortiert Wochenergebnisse und erstellt den Index"
+  default_prompt: "Nutze $weekly-dump-publisher und bereite meinen Wochen-Dump vor."
+policy:
+  allow_implicit_invocation: false

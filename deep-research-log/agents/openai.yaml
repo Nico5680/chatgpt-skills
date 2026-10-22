@@ -1,0 +1,6 @@
+interface:
+  display_name: "Deep Research mit Log"
+  short_description: "Recherche mit Quellen und kompaktem Log"
+  default_prompt: "Nutze $deep-research-log fuer eine gruendliche Recherche zu meinem Thema."
+policy:
+  allow_implicit_invocation: false

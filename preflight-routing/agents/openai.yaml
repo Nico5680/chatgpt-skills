@@ -1,0 +1,6 @@
+interface:
+  display_name: "Pre-Flight & Routing"
+  short_description: "Liest Start.md/AGENTS.md und routet nach Stichwort"
+  default_prompt: "Nutze $preflight-routing und fuehre den Pre-Flight-Check fuer meine Aufgabe aus."
+policy:
+  allow_implicit_invocation: true
